@@ -57,3 +57,6 @@ You can also run a single test by specifying the test file:
 $ python3 -m unittest tests/test_models/test_city.py
 
 ```
+# Authors
+
+## [`Christian Regnante Ngwino`]
